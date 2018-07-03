@@ -1,6 +1,7 @@
 
 
 ## This program implements the Merge Sort Algorthim
+## Input: unsorted array
 
 def MergeSort(arry):
 
