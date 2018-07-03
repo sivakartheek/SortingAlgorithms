@@ -1,10 +1,11 @@
 
 
-### This program implements the following sorting algorithms
+### This program implements the following sorting algorithms:
 ## 1. Bubble Sort
 ## 2. Insertion Sort
 ## 3. Selection Sort
 ## 4. Quick Sort
+## Input: unsorted array
 
 def BubbleSort(array):
 
